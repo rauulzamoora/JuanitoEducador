@@ -1,0 +1,10 @@
+Por cada kit:
+ - 1 base 4 pilas AA
+ - 1 Jack barrel
+ - 2 Sensores infrarrojos
+ - 1 Sensor ultrasonico
+ - 1 Arduino Nano
+ - 1 Expansion arduino nano
+ - Jumpers
+ - 2 motores CC
+ - Chasis
